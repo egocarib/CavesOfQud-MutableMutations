@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<objects>
+  <object Name="Egcb_MutableMutationsInitializer" Inherits="Item">
+    <part Name="Render" DisplayName="[Dummy item for Mutable Mutations mod]" />
+    <part Name="Egcb_MutableMutations" />
+    <tag Name="ExcludeFromDynamicEncounters" />
+  </object>
+</objects>
